@@ -5,7 +5,7 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="logo">
-          <h2>YourSeller</h2>
+          <h2>amazon</h2>
         </div>
 
         <div className="search-box">
